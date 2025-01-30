@@ -17,7 +17,7 @@ https://dukpe.pythonanywhere.com/
   
 ### Example Response  
 {
-  "email": "daniellamodukpe@gmail.com",
+  "email": "mine@gmail.com",
   "current_datetime": "2025-01-30T10:21:54.148477Z",
   "github_url": "https://github.com/dany-gaga/HNG12_task"
 }
