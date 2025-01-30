@@ -11,7 +11,7 @@ def get_info():
     response = {
         "email": "daniellamodukpe@gmail.com",
         "current_datetime": datetime.utcnow().isoformat() + 'Z', 
-        "github_url": "<https://github.com/dany-gaga/HNG12_task>"  
+        "github_url": "https://github.com/dany-gaga/HNG12_task"  
     }  
     json_response = json.dumps(response, sort_keys=False)
     return Response(json_response, mimetype = 'application/json')  
