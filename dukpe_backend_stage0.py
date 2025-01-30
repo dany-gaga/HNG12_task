@@ -11,7 +11,7 @@ def get_info():
     response = OrderedDict([  
         ("email": "daniellamodukpe@gmail.com"),  
         ("current_datetime": datetime.utcnow().isoformat() + 'Z'),  
-        ()"github_url": "https://github.com/dany-gaga/HNG12_task")  
+        ("github_url": "https://github.com/dany-gaga/HNG12_task")  
                            ]) 
     return jsonify(response)  
 
